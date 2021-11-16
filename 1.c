@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello World!\n");
+	printf("जय गौमाता ");
 	return 0;
 }
